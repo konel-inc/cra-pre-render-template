@@ -16,6 +16,7 @@
     "source.fixAll.stylelint": true
   },
   "editor.tabSize": 2,
+  "prettier.semi": false,
   "editor.insertSpaces": true,
   "editor.detectIndentation": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
