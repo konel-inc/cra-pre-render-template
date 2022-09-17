@@ -1,7 +1,12 @@
-import React from "react";
+import React from 'react'
+import PictureImage from '@/components/PictureImage'
 
 const App = () => {
-  return <></>;
-};
+  return (
+    <>
+      <PictureImage img={'dafdsf'} alt="dafdsf"></PictureImage>
+    </>
+  )
+}
 
-export default App;
+export default App
